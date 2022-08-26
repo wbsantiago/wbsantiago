@@ -25,3 +25,5 @@ I'm engineer civil and i am in transition carrear to software engineer, at now i
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbsantiago&show_icons=true&theme=tokyonight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wbsantiago&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
